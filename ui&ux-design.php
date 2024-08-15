@@ -8,8 +8,33 @@
                     <div class="title-inner center">
                         <h1 class="title text-white mb-18">UI/UX Design</h1>
                         <div class="title-group text-white">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
+                            <a href="service.php">Services</a>
                             <a href="#">UI/UX Design</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  Marque text -->
+    <section class="marque-text-style">
+        <div class="tf-container full">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="marquee-wrapper text-slider ">
+                        <div class="marquee-inner to-left">
+                            <ul class="marqee-list d-flex marque-slider">
+                                <li class="marquee-item">
+                                    <span class="text-slider">Web Development</span><i class="icon-asterisk"></i>
+                                    <span class="text-slider">Mobile Application Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">Software Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">UI/UX Design</span>
+                                    <span class="text-slider">Web Development</span>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -25,7 +50,7 @@
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Exceptional UI/UX Design</span>
                             <h2 class="title">Elevate Your User Experience with Innovative Design</h2>
-                            <p class="des">Transform your digital presence with our expert UI/UX design solutions. We focus on creating visually stunning and user-centric interfaces that enhance usability and engagement. From initial concept to final design, our team crafts experiences that are not only beautiful but also intuitive, ensuring every interaction is seamless and satisfying for your users.</p>
+                            <p class="des">Transform your digital presence with our expert UI/UX design solutions. We focus on creating visually stunning and user-centric interfaces that enhance usability and engagement. From initial concept to final design, our team crafts experiences that are not only beautiful but also intuitive, ensuring every interaction is immaculate and satisfying for your users.</p>
                         </div>
                         <img src="assets/images/service/service-bu4.jpg" alt="image">
                     </div>
@@ -85,7 +110,7 @@
                             </div>
                             <div class="contact-content">
                                 <span class="font-man text-white">Call Us Today</span>
-                                <p>+447846517457</p>
+                                <p><a class="text-white" href="tel:+923087844475">+923087844475</a></p>
                             </div>
                         </div>
                         <div class="contact-wrap flex-three">
@@ -94,7 +119,7 @@
                             </div>
                             <div class="contact-content">
                                 <span class="font-man text-white">Email Us</span>
-                                <p>info@genzbit.com</p>
+                                <p><a class="text-white" href="mailto:info@genzbit.com">info@genzbit.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -107,7 +132,7 @@
                             <?php
                             $status = $_GET['status'] ?? '';
                             $message = $_GET['message'] ?? '';
-                            
+
                             if ($status && $message) {
                                 $alertClass = $status === 'success' ? 'alert-success' : 'alert-danger';
                                 echo "<div class='alert $alertClass'>$message</div>";
@@ -115,7 +140,7 @@
                             ?>
                         </div>
                         <form action="send_mail.php" method="POST" class="form-contact-home">
-                        <input type="hidden" name="form_type" value="service"> 
+                            <input type="hidden" name="form_type" value="service">
                             <div class="input-group flex-one">
                                 <fieldset class="relative mb-20">
                                     <input type="hidden" name="url" value="ui&ux-design">

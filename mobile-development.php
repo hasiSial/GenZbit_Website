@@ -9,8 +9,33 @@
                     <div class="title-inner center">
                         <h1 class="title text-white mb-18">Mobile Development</h1>
                         <div class="title-group text-white">
-                            <a href="index.html">Home</a>
+                            <a href="index.php">Home</a>
+                            <a href="service.php">Services</a>
                             <a href="#">Mobile Development</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  Marque text -->
+    <section class="marque-text-style">
+        <div class="tf-container full">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="marquee-wrapper text-slider ">
+                        <div class="marquee-inner to-left">
+                            <ul class="marqee-list d-flex marque-slider">
+                                <li class="marquee-item">
+                                    <span class="text-slider">Web Development</span><i class="icon-asterisk"></i>
+                                    <span class="text-slider">Mobile Application Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">Software Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">UI/UX Design</span>
+                                    <span class="text-slider">Web Development</span>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -26,7 +51,7 @@
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Mobile Development Excellence</span>
                             <h2 class="title">Unlock the Potential of Mobile Technology</h2>
-                            <p class="des">Experience the future of mobile development with our cutting-edge solutions. We specialize in creating intuitive and high-performance mobile apps that engage users and drive business success. From concept to launch, our team ensures a seamless and impactful mobile experience tailored to your needs.</p>
+                            <p class="des">Experience the future of mobile development with our creative solutions. We specialize in creating intuitive and high-performance mobile apps that engage users and drive business success. From concept to launch, our team ensures a perfect and impactful mobile experience tailored to your needs.</p>
                         </div>
                         <img src="assets/images/service/service-bu3.jpg" alt="image">
                     </div>
@@ -37,9 +62,9 @@
                             <li>
                                 <div class="flex-three">
                                     <i class="icon-Check"></i>
-                                    <h4>Seamless Mobile Experience</h4>
+                                    <h4>Ideal Mobile Experience</h4>
                                 </div>
-                                <p>We create intuitive and user-friendly mobile apps that offer a seamless experience across all devices, ensuring your users are always engaged and satisfied.</p>
+                                <p>We create intuitive and user-friendly mobile apps that offer a immaculate experience across all devices, ensuring your users are always engaged and satisfied.</p>
                             </li>
                             <li>
                                 <div class="flex-three">
@@ -86,7 +111,7 @@
                             </div>
                             <div class="contact-content">
                                 <span class="font-man text-white">Call Us Today</span>
-                                <p>+447846517457</p>
+                                <p><a class="text-white" href="tel:+923087844475">+923087844475</a></p>
                             </div>
                         </div>
                         <div class="contact-wrap flex-three">
@@ -95,7 +120,7 @@
                             </div>
                             <div class="contact-content">
                                 <span class="font-man text-white">Email Us</span>
-                                <p>info@genzbit.com</p>
+                                <p><a class="text-white" href="mailto:info@genzbit.com">info@genzbit.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -108,7 +133,7 @@
                             <?php
                             $status = $_GET['status'];
                             $message = $_GET['message'];
-                            
+
                             if (isset($status) && isset($message)) {
                                 $alertClass = $status === 'success' ? 'alert-success' : 'alert-danger';
                                 echo "<div class='alert $alertClass'>$message</div>";
@@ -116,7 +141,7 @@
                             ?>
                         </div>
                         <form action="send_mail.php" method="POST" class="form-contact-home">
-                        <input type="hidden" name="form_type" value="service"> 
+                            <input type="hidden" name="form_type" value="service">
                             <div class="input-group flex-one">
                                 <fieldset class="relative mb-20">
                                     <input type="hidden" name="url" value="mobile-development">
