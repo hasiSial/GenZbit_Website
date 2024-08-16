@@ -32,6 +32,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -49,7 +50,7 @@
                     <div class="contact-us-page-content">
                         <div class="heading-title">
                             <span class="sub-title text-blue2 font-man">Contact us today</span>
-                            <h2 class="fs-1 title">We'd love to hear<br> from you</h2>
+                            <h2 class="fs-2 title">We'd love to hear from you</h2>
                             <p class="des">Have a question, need assistance, or eager to explore how GenZbit
                                 can elevate your business? Our dedicated team is ready to assist you. Reach
                                 out to us through your preferred channel below.</p>
@@ -118,7 +119,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="contact-us-page-form bg-2">
-                        <h3 class="title">Send Us Message</h3>
+                        <h3 class="title fs-2">Send Us Message</h3>
                         <?php
                         $status = $_GET['status'] ?? '';
                         $message = $_GET['message'] ?? '';

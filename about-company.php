@@ -32,6 +32,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -50,7 +51,7 @@
                     <div class="about-us-content">
                         <div class="heading-title">
                             <span class="sub-title text-blue2 font-man">About Company</span>
-                            <h2 class="fs-1 title">Simplify your world with <span class="text-blue2">GenZbit</span></h2>
+                            <h2 class="fs-2 title">Simplify your world with <span class="text-blue2">GenZbit</span></h2>
                         </div>
                         <ul class="icon-listing">
                             <li class="flex-three">

@@ -1354,7 +1354,7 @@
 .breadcumb-section {
   padding-top: 157px;
   padding-bottom: 161px;
-  background-image: url(../../assets/images/page/page-title.jpg);
+  background-image: url(../../assets/images/page/team-img1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1381,7 +1381,7 @@
   position: relative;
 }
 .breadcumb-section .title-group a:hover {
-  color: #d2a98e;
+  color: #0f86d1;
 }
 .breadcumb-section .title-group a:not(:last-child) {
   margin-right: 44px;
@@ -7327,7 +7327,7 @@
   border-radius: 100%;
 }
 .testimonial-style3.style3-h5 .content .des {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 500;
   line-height: 40px;
   color: #222222;

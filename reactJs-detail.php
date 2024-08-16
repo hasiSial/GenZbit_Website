@@ -18,6 +18,31 @@
             </div>
         </div>
     </section>
+    <!--  Marque text -->
+    <section class="marque-text-style">
+        <div class="tf-container full">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="marquee-wrapper text-slider ">
+                        <div class="marquee-inner to-left">
+                            <ul class="marqee-list d-flex marque-slider">
+                                <li class="marquee-item">
+                                    <span class="text-slider">Web Development</span><i class="icon-asterisk"></i>
+                                    <span class="text-slider">Mobile Application Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">Software Development</span><i
+                                        class="icon-asterisk"></i>
+                                    <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
+                                    <span class="text-slider">Web Development</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="section-benefit pt-122">
         <div class="tf-container">
@@ -25,7 +50,7 @@
                 <div class="col-md-7">
                     <div class="benefit-content">
                         <div class="heading-title mb-40">
-                            <h2 class="title">ReactJS Developer</h2>
+                            <h2 class="title fs-2">ReactJS Developer</h2>
                             <p class="des">A ReactJS Developer specializes in creating dynamic and engaging user interfaces using ReactJS. They excel in designing and implementing complex workflows, visualizing data, and developing interactive applications that enhance user experience.</p>
                         </div>
                         <div class="section-it-manager pb-400">
@@ -183,7 +208,7 @@
                     <div class="content">
                         <div class="heading-title mb-40">
                             <span class="sub-title text-white font-man">Career Opportunity</span>
-                            <h2 class="title text-white">Join Our Team for Exciting New Projects</h2>
+                            <h2 class="title fs-2 text-white">Join Our Team for Exciting New Projects</h2>
                             <p class="des font-man text-white">We are thrilled to find talented individuals who are passionate about making a difference. Apply now to be part of a dynamic team dedicated to innovation and excellence.</p>
                         </div>
                         <div class="contact-wrap flex-three mb-40">
@@ -211,7 +236,7 @@
                 <div class="col-md-7">
                     <div class="form-contact-home1 style2">
                         <div class="inner-title-form center mb-30">
-                            <h3 class="title-form">Apply for a Position</h3>
+                            <h3 class="title-form fs-2">Apply for a Position</h3>
                             <p>We’re excited to meet enthusiastic candidates ready to contribute to our next big project. Submit your details below to start your journey with us!</p>
                             <?php
                             $status = $_GET['status'] ?? '';

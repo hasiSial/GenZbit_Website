@@ -33,6 +33,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
 
                             </ul>
@@ -51,7 +52,7 @@
                     <div class="feature-service2-content">
                         <div class="heading-title mb-26">
                             <span class="sub-title texts-blue font-man">Core Features</span>
-                            <h2 class="title mb-30">Why Our Solution Stands Out</h2>
+                            <h2 class="title fs-2 mb-30">Why Our Solution Stands Out</h2>
                             <p class="des">Explore the standout features of our solution that drive success and deliver tangible results. We focus on innovation, performance, and user satisfaction to create solutions that excel.</p>
                         </div>
                         <ul class="icon-listing mb-50">
@@ -93,7 +94,7 @@
                 <div class="col-lg-12">
                     <div class="heading-title center w-680 m0-auto">
                         <span class="sub-title texts-blue font-man">What We Provide</span>
-                        <h2 class="title mb-30">Our Expertise</h2>
+                        <h2 class="title fs-2 mb-30">Our Expertise</h2>
                     </div>
                 </div>
             </div>
@@ -102,7 +103,7 @@
                     <div class="service-item-list">
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu1.jpg" alt="image">
+                                <img src="assets/images/service/service-1.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -117,7 +118,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu2.jpg" alt="image">
+                                <img src="assets/images/service/service-2.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -131,7 +132,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu3.jpg" alt="image">
+                                <img src="assets/images/service/service-3.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -145,7 +146,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu4.jpg" alt="image">
+                                <img src="assets/images/service/service-4.png" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Design</p>

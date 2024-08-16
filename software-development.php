@@ -33,6 +33,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -43,18 +44,18 @@
         </div>
     </section>
 
-    <section class="section-benefit pt-122">
+    <section class="section-benefit mb-60 pt-122">
         <div class="tf-container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="benefit-content">
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Innovative Software Development</span>
-                            <h2 class="title">Transforming Ideas into Powerful Software Solutions</h2>
+                            <h2 class="title fs-2">Transforming Ideas into Powerful Software Solutions</h2>
                             <p class="des">Unlock the potential of your business with our creative software development services. We turn visionary concepts into high-performance applications, blending creativity with technology to deliver scalable, secure, and bespoke software solutions that drive efficiency and growth.</p>
                         </div>
                     </div>
-                    <img src="assets/images/service/service-bu2.jpg" alt="image">
+                    <img src="assets/images/service/service-1.jpg" alt="image">
                 </div>
                 <div class="col-md-6" style="margin-bottom:100px">
                     <div class="benefit-list">
@@ -102,7 +103,7 @@
                     <div class="content">
                         <div class="heading-title mb-40">
                             <span class="sub-title text-white font-man">Get In Touch</span>
-                            <h2 class="title text-white">Ready to Start Your Next Project?</h2>
+                            <h2 class="title fs-2 text-white">Ready to Start Your Next Project?</h2>
                             <p class="des font-man text-white">We are here to help you transform your ideas into reality. Reach out to us for expert guidance and support on your upcoming projects.</p>
                         </div>
                         <div class="contact-wrap flex-three mb-40">

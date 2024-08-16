@@ -32,6 +32,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -42,17 +43,17 @@
         </div>
     </section>
 
-    <section class="section-benefit pt-122">
+    <section class="section-benefit mb-60 pt-122">
         <div class="tf-container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="benefit-content">
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Exceptional UI/UX Design</span>
-                            <h2 class="title">Elevate Your User Experience with Innovative Design</h2>
+                            <h2 class="title fs-2">Elevate Your User Experience with Innovative Design</h2>
                             <p class="des">Transform your digital presence with our expert UI/UX design solutions. We focus on creating visually stunning and user-centric interfaces that enhance usability and engagement. From initial concept to final design, our team crafts experiences that are not only beautiful but also intuitive, ensuring every interaction is immaculate and satisfying for your users.</p>
                         </div>
-                        <img src="assets/images/service/service-bu4.jpg" alt="image">
+                        <img src="assets/images/service/service-4.png" alt="image">
                     </div>
                 </div>
                 <div class="col-md-6" style="margin-bottom:100px">
@@ -101,7 +102,7 @@
                     <div class="content">
                         <div class="heading-title mb-40">
                             <span class="sub-title text-white font-man">Get In Touch</span>
-                            <h2 class="title text-white">Ready to Start Your Next Project?</h2>
+                            <h2 class="title fs-2 text-white">Ready to Start Your Next Project?</h2>
                             <p class="des font-man text-white">We are here to help you transform your ideas into reality. Reach out to us for expert guidance and support on your upcoming projects.</p>
                         </div>
                         <div class="contact-wrap flex-three mb-40">
@@ -127,7 +128,7 @@
                 <div class="col-md-7">
                     <div class="form-contact-home1 style2">
                         <div class="inner-title-form center mb-30">
-                            <h3 class="title-form">We’re Here to Assist!</h3>
+                            <h3 class="title-form fs-2">We’re Here to Assist!</h3>
                             <p>Our team is ready to provide the support you need for your next project. Fill out the form below to get in touch.</p>
                             <?php
                             $status = $_GET['status'] ?? '';

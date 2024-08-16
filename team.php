@@ -33,6 +33,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -51,7 +52,7 @@
                     <div class="skill-team-content">
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Experience Our Team's Expertise</span>
-                            <h2 class="fs-1 title">Get To Know Our Professionals</h2>
+                            <h2 class="fs-2 title">Get To Know Our Professionals</h2>
                             <p class="des">Our team of highly skilled IT professionals brings a wealth of experience to deliver tailored solutions that drive your business success.</p>
                         </div>
                         <div class="flex progres-wrap mb-50">
@@ -104,7 +105,7 @@
                 <div class="col-lg-12">
                     <div class="heading-title m0-auto w-680 center mb-60">
                         <span class="sub-title texts-blue font-man">Meet Our Team</span>
-                        <h2 class="title">Meet Our Professionals</h2>
+                        <h2 class="title fs-2">Meet Our Professionals</h2>
                     </div>
                 </div>
             </div>

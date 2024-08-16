@@ -34,6 +34,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -50,7 +51,7 @@
                 <div class="col-md-7">
                     <div class="benefit-content">
                         <div class="heading-title mb-40">
-                            <h2 class="title">Flutter Flow Developer</h2>
+                            <h2 class="title fs-2">Flutter Flow Developer</h2>
                             <p class="des">A Flutter Flow Developer specializes in building high-quality, responsive mobile applications using Flutter and the Flutter Flow platform. With expertise in both Flutter development and the Flutter Flow visual development tool, they are adept at creating visually appealing, performance-optimized applications with an emphasis on user experience.</p>
                         </div>
                         <div class="section-it-manager pb-400">
@@ -215,7 +216,7 @@
                     <div class="content">
                         <div class="heading-title mb-40">
                             <span class="sub-title text-white font-man">Career Opportunity</span>
-                            <h2 class="title text-white">Join Our Team for Exciting New Projects</h2>
+                            <h2 class="title fs-2 text-white">Join Our Team for Exciting New Projects</h2>
                             <p class="des font-man text-white">We are thrilled to find talented individuals who are passionate about making a difference. Apply now to be part of a dynamic team dedicated to innovation and excellence.</p>
                         </div>
                         <div class="contact-wrap flex-three mb-40">
@@ -243,7 +244,7 @@
                 <div class="col-md-7">
                     <div class="form-contact-home1 style2">
                         <div class="inner-title-form center mb-30">
-                            <h3 class="title-form">Apply for a Position</h3>
+                            <h3 class="title-form fs-2">Apply for a Position</h3>
                             <p>We’re excited to meet enthusiastic candidates ready to contribute to our next big project. Submit your details below to start your journey with us!</p>
                             <?php
                             $status = $_GET['status'] ?? '';

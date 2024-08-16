@@ -34,6 +34,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -44,18 +45,18 @@
         </div>
     </section>
 
-    <section class="section-benefit pt-122">
+    <section class="section-benefit mb-60 pt-122">
         <div class="tf-container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="benefit-content">
                         <div class="heading-title mb-40">
                             <span class="sub-title texts-blue font-man">Web Development Expertise</span>
-                            <h2 class="title">Unlock the Power of Cutting-Edge Web Solutions</h2>
+                            <h2 class="title fs-2">Unlock the Power of Cutting-Edge Web Solutions</h2>
                             <p class="des">Transform your digital presence with our innovative web development services. We blend creativity with technology to build dynamic and responsive websites that captivate your audience and drive business success. Experience perfect integration, exceptional performance, and tailored solutions that make your brand stand out in the digital landscape.</p>
                         </div>
                     </div>
-                    <img src="assets/images/service/service-bu1.jpg" alt="image">
+                    <img src="assets/images/service/service-2.jpg" alt="image">
                 </div>
                 <div class="col-md-6" style="margin-bottom:100px">
                     <div class="benefit-list">
@@ -104,7 +105,7 @@
                     <div class="content">
                         <div class="heading-title mb-40">
                             <span class="sub-title text-white font-man">Get In Touch</span>
-                            <h2 class="title text-white">Ready to Start Your Next Project?</h2>
+                            <h2 class="title fs-2 text-white">Ready to Start Your Next Project?</h2>
                             <p class="des font-man text-white">We are here to help you transform your ideas into reality. Reach out to us for expert guidance and support on your upcoming projects.</p>
                         </div>
                         <div class="contact-wrap flex-three mb-40">
@@ -130,7 +131,7 @@
                 <div class="col-md-7">
                     <div class="form-contact-home1 style2">
                         <div class="inner-title-form center mb-30">
-                            <h3 class="title-form">We’re Here to Assist!</h3>
+                            <h3 class="title-form fs-2">We’re Here to Assist!</h3>
                             <p>Our team is ready to provide the support you need for your next project. Fill out the form below to get in touch.</p>
                             <?php
                             $status = $_GET['status'] ?? '';

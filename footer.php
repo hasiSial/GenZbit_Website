@@ -39,7 +39,7 @@
                     <h5 class="title-footer text-white">Menu</h5>
                     <ul class="menu-service">
                         <li>
-                            <a href="home.php">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li>
                             <a href="about-company.php">About</a>
@@ -88,9 +88,6 @@
                             <a href="mailto:info@genzbit.com">info@genzbit.com</a>
                         </li>
                         <li>
-                            <a href="tel:+447846517457">+447846517457</a>
-                        </li>
-                        <li>
                             <a href="tel:+923087844475">+923087844475</a>
                         </li>
                     </ul>
@@ -137,7 +134,7 @@
     <div class="offcanvas-body">
         <ul class="menu-service">
             <li>
-                <a href="home.php">Home </a>
+                <a href="index.php">Home </a>
             </li>
             <li>
                 <a href="about-company.php">About</a>
@@ -158,9 +155,8 @@
         </ul>
         <div class="footer-main-locations">
             <h5 class="title-footer">Contact</h5>
-            <p class="font-man text-lcation">45/A, New Satellite Town Bahawalpur, Punjab 63100</p>
+            <p class="font-man text-lcation">45/A, New Satellite Town Bahawalpur, Punjab Pakistan</p>
             <p class="font-man text-lcation ">info@genzbit.com</p>
-            <p class="phone">+447846517457</p>
             <p class="phone">+923087844475</p>
         </div>
         <div class="follow-social">

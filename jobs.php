@@ -32,6 +32,7 @@
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">UI/UX Design</span>
+                                    <i class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -49,7 +50,7 @@
                 <div class="col-lg-12">
                     <div class="heading-title center w-680 m0-auto">
                         <span class="sub-title texts-blue font-man">Join Our Team</span>
-                        <h2 class="title mb-30">We’re Hiring!</h2>
+                        <h2 class="title fs-2 mb-30">We’re Hiring!</h2>
                     </div>
                 </div>
             </div>

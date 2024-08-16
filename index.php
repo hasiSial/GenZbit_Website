@@ -43,7 +43,8 @@
                                         class="icon-asterisk"></i>
                                     <span class="text-slider">Software Development</span><i
                                         class="icon-asterisk"></i>
-                                    <span class="text-slider">UI/UX Design</span>
+                                    <span class="text-slider">UI/UX Design</span><i
+                                        class="icon-asterisk"></i>
                                     <span class="text-slider">Web Development</span>
                                 </li>
                             </ul>
@@ -65,7 +66,7 @@
             <div class="fact-widget bg-gradient pd-fact wow fadeInUpSmall" data-wow-delay=".3s">
                 <div class="heading-title">
                     <span class="sub-title text-white font-man">Your Trusted Partner in Digital Growth</span>
-                    <h2 class="title fs-1 text-white"><span class="text-blue2"> GenZbit</span> is your
+                    <h2 class="title fs-2 text-white"><span class="text-blue2"> GenZbit</span> is your
                         launchpad to success; <br> we're your partners in shaping <br>the digital future.
                     </h2>
                 </div>
@@ -115,7 +116,7 @@
                 <div class="col-lg-12">
                     <div class="heading-title center w-680 m0-auto">
                         <span class="sub-title texts-blue font-man">What we Provide</span>
-                        <h2 class="title mb-30">Our Expertise</h2>
+                        <h2 class="title mb-30 fs-2">Our Expertise</h2>
                     </div>
                 </div>
             </div>
@@ -124,7 +125,7 @@
                     <div class="service-item-list">
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu1.jpg" alt="image">
+                                <img src="assets/images/service/service-1.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -139,7 +140,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu2.jpg" alt="image">
+                                <img src="assets/images/service/service-2.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -153,7 +154,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu3.jpg" alt="image">
+                                <img src="assets/images/service/service-3.jpg" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Development</p>
@@ -167,7 +168,7 @@
                         </div>
                         <div class="service-item flex-three">
                             <div class="image">
-                                <img src="assets/images/service/service-bu4.jpg" alt="image">
+                                <img src="assets/images/service/service-4.png" alt="image">
                             </div>
                             <div class="content">
                                 <p class="category">Design</p>
@@ -199,7 +200,7 @@
                     <div class="about-us-h5-content">
                         <div class="heading-title">
                             <span class="sub-title text-blue2 font-man">About Company – GenZbit</span>
-                            <h2 class="title text-white">A Leading Software Firm; Accelerating Business With
+                            <h2 class="title fs-2 text-white">A Leading Software Firm; Accelerating Business With
                                 <span class="text-blue2 mask">Technology</span>
                             </h2>
                         </div>
@@ -226,7 +227,7 @@
                         <div class="about-us-wrap flex-three">
                             <a href="about-company.php" class="button-src">About Us <i class="icon-angle-right"></i></a>
                             <div class="flex-three profile">
-                                <img src="assets/images/team/bilal.png" alt="image">
+                                <img src="assets/images/team/rizwan.png" alt="image">
                                 <div class="content">
                                     <h4 class="name text-white">Rizwan Saleem</h4>
                                     <p class="job text-white">CEO & Founder</p>
@@ -248,7 +249,7 @@
                     <div class="heading-title center">
                         <span class="sub-title text-blue2 font-man wow fadeInUpSmall"
                             data-wow-delay=".2s">Partner Testimonials</span>
-                        <h2 class="title text-black wow fadeInUpSmall" data-wow-delay=".3s">Hear From Our <span class="text-blue2 mask">Clients</span></h2>
+                        <h2 class="title fs-2 text-black wow fadeInUpSmall" data-wow-delay=".3s">Hear From Our <span class="text-blue2 mask">Clients</span></h2>
                     </div>
                 </div>
             </div>
@@ -268,7 +269,7 @@
                                             <div class="testimonial-bottom flex-two">
                                                 <div class="testimonial-top flex-three">
                                                     <i class="icon-des"></i>
-                                                    <p class="name">Alex T. Johnson
+                                                    <p class="text-blue2 fs-3">Alex T. Johnson
                                                     </p>
 
                                                 </div>
@@ -296,7 +297,7 @@
                                             <div class="testimonial-bottom flex-two">
                                                 <div class="testimonial-top flex-three">
                                                     <i class="icon-des"></i>
-                                                    <p class="name">Robert J</p>
+                                                    <p class="text-blue2 fs-3">Robert J</p>
                                                     <!-- <p class="name">Robert J<span
                                                                 class="job font-man">Graphics Designer</span>
                                                         </p> -->
@@ -325,7 +326,7 @@
                                             <div class="testimonial-bottom flex-two">
                                                 <div class="testimonial-top flex-three">
                                                     <i class="icon-des"></i>
-                                                    <p class="name">Jamie Lee
+                                                    <p class="text-blue2 fs-3">Jamie Lee
                                                     </p>
                                                 </div>
                                                 <div class="review">
@@ -356,7 +357,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="heading-title center mb-60">
-                        <h2 class="title text-white wow fadeInUpSmall" data-wow-delay=".3s">Our Awesome <span class="text-blue2 mask">partners</span></h2>
+                        <h2 class="title fs-2 text-white wow fadeInUpSmall" data-wow-delay=".3s">Our Awesome <span class="text-blue2 fs-2 mask">partners</span></h2>
                     </div>
                 </div>
             </div>
